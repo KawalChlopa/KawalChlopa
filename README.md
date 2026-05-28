@@ -50,5 +50,5 @@ I work as a DevOps Engineer and I'm interested in Rust, cloud technologies, data
 </table>
 
 <p align="center">
-  <i>tRUST me, the force is memory safe.</i>
+  <i>I don't rest I rust.</i>
 </p>
