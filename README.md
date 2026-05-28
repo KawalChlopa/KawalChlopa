@@ -5,11 +5,11 @@
 I am a Cybersecurity student at Wrocław University of Science and Technology, currently pursuing my Master's degree.  
 I work as a DevOps Engineer and I'm interested in Rust, cloud technologies, data, cybersecurity and DevSecOps.
 
-<table>
-<tr>
-<td valign="middle">
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/KawalChlopa/KawalChlopa/main/trust-force-text.svg?v=3" alt="In the Force, tRUST you must" width="850" /> 
+</p>
 
-<pre style="font-size: 10px; line-height: 10px;">
+<pre align="center">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⠤⠐⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡌⡦⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣼⡊⢀⠔⠀⠀⣄⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣄⣀⠀
@@ -40,15 +40,6 @@ I work as a DevOps Engineer and I'm interested in Rust, cloud technologies, data
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠄⠈⠻⠿⠿⠿⠿⠿⠿⠛⠛⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠻⠿⠿⠿⠿⠟⠉⠀⠀⠤⠴⠶⠌⠿⠘⠿⠿⠿⠿⠶⠤⠀⠀
 </pre>
 
-</td>
-<td valign="middle">
-
-<img src="https://raw.githubusercontent.com/KawalChlopa/KawalChlopa/main/trust-in-force.svg" alt="TRUST IN FORCE" width="650" />
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <i>I don't rest I rust.</i>
+<p align="center"> 
+  <i>I don’t rest. I rust.</i>
 </p>
