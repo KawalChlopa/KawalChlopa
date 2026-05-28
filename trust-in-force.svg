@@ -1,0 +1,35 @@
+```svg id="g3pw85"
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: "Courier New", monospace;
+      font-size: 18px;
+      white-space: pre;
+    }
+
+    .normal {
+      fill: #c9d1d9;
+      font-weight: bold;
+    }
+
+    .rust {
+      fill: #3fb950;
+      font-weight: bold;
+    }
+  </style>
+
+  <!-- T normal, RUST green -->
+  <text x="10" y="30"><tspan class="normal">████████╗</tspan><tspan class="rust">██████╗ ██╗   ██╗███████╗████████╗</tspan></text>
+  <text x="10" y="52"><tspan class="normal">╚══██╔══╝</tspan><tspan class="rust">██╔══██╗██║   ██║██╔════╝╚══██╔══╝</tspan></text>
+  <text x="10" y="74"><tspan class="normal">   ██║   </tspan><tspan class="rust">██████╔╝██║   ██║███████╗   ██║   </tspan></text>
+  <text x="10" y="96"><tspan class="normal">   ██║   </tspan><tspan class="rust">██╔══██╗██║   ██║╚════██║   ██║   </tspan></text>
+  <text x="10" y="118"><tspan class="normal">   ██║   </tspan><tspan class="rust">██║  ██║╚██████╔╝███████║   ██║   </tspan></text>
+  <text x="10" y="140"><tspan class="normal">   ╚═╝   </tspan><tspan class="rust">╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   </tspan></text>
+
+  <!-- IN FORCE -->
+  <text x="10" y="180" class="normal">██╗███╗   ██╗    ███████╗ ██████╗ ██████╗  ██████╗███████╗</text>
+  <text x="10" y="202" class="normal">██║████╗  ██║    ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝</text>
+  <text x="10" y="224" class="normal">██║██╔██╗ ██║    █████╗  ██║   ██║██████╔╝██║     █████╗  </text>
+  <text x="10" y="246" class="normal">██║██║╚██╗██║    ██╔══╝  ██║   ██║██╔══██╗██║     ██╔══╝  </text>
+</svg>
+
