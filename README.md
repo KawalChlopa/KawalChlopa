@@ -43,7 +43,7 @@ I work as a DevOps Engineer and I'm interested in Rust, cloud technologies, data
 </td>
 <td valign="middle">
 
-<img src="./trust-in-force.svg" alt="TRUST IN FORCE" width="650" />
+<img src="trust-in-force.svg" alt="TRUST IN FORCE" width="650" />
 
 </td>
 </tr>
