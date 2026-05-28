@@ -23,7 +23,7 @@
     }
   </style>
 
-  <!-- IN THE FORCE -->
+  <!-- IN THE FORCE, -->
   <text x="50%" y="20" text-anchor="middle" class="small">██╗███╗   ██╗   ████████╗██╗  ██╗███████╗   ███████╗ ██████╗ ██████╗  ██████╗███████╗</text>
   <text x="50%" y="34" text-anchor="middle" class="small">██║████╗  ██║   ╚══██╔══╝██║  ██║██╔════╝   ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝</text>
   <text x="50%" y="48" text-anchor="middle" class="small">██║██╔██╗ ██║      ██║   ███████║█████╗     █████╗  ██║   ██║██████╔╝██║     █████╗  </text>
@@ -31,24 +31,24 @@
   <text x="50%" y="76" text-anchor="middle" class="small">██║██║ ╚████║      ██║   ██║  ██║███████╗   ██║     ╚██████╔╝██║  ██║╚██████╗███████╗</text>
   <text x="50%" y="90" text-anchor="middle" class="small">╚═╝╚═╝  ╚═══╝      ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝</text>
 
-  <!-- TRUST WE -->
+  <!-- TRUST, WE -->
   <text x="50%" y="135" text-anchor="middle" class="big">
-    <tspan fill="#c9d1d9">████████╗</tspan><tspan class="rust">██████╗ ██╗   ██╗███████╗████████╗</tspan><tspan fill="#c9d1d9">    ██╗    ██╗███████╗</tspan>
+    <tspan fill="#c9d1d9">████████╗</tspan><tspan class="rust">██████╗ ██╗   ██╗███████╗████████╗</tspan><tspan fill="#c9d1d9">           ██╗    ██╗███████╗</tspan>
   </text>
   <text x="50%" y="149" text-anchor="middle" class="big">
-    <tspan fill="#c9d1d9">╚══██╔══╝</tspan><tspan class="rust">██╔══██╗██║   ██║██╔════╝╚══██╔══╝</tspan><tspan fill="#c9d1d9">    ██║    ██║██╔════╝</tspan>
+    <tspan fill="#c9d1d9">╚══██╔══╝</tspan><tspan class="rust">██╔══██╗██║   ██║██╔════╝╚══██╔══╝</tspan><tspan fill="#c9d1d9">           ██║    ██║██╔════╝</tspan>
   </text>
   <text x="50%" y="163" text-anchor="middle" class="big">
-    <tspan fill="#c9d1d9">   ██║   </tspan><tspan class="rust">██████╔╝██║   ██║███████╗   ██║   </tspan><tspan fill="#c9d1d9">    ██║ █╗ ██║█████╗  </tspan>
+    <tspan fill="#c9d1d9">   ██║   </tspan><tspan class="rust">██████╔╝██║   ██║███████╗   ██║   </tspan><tspan fill="#c9d1d9">           ██║ █╗ ██║█████╗  </tspan>
   </text>
   <text x="50%" y="177" text-anchor="middle" class="big">
-    <tspan fill="#c9d1d9">   ██║   </tspan><tspan class="rust">██╔══██╗██║   ██║╚════██║   ██║   </tspan><tspan fill="#c9d1d9">    ██║███╗██║██╔══╝  </tspan>
+    <tspan fill="#c9d1d9">   ██║   </tspan><tspan class="rust">██╔══██╗██║   ██║╚════██║   ██║   </tspan><tspan fill="#c9d1d9">   ██╗     ██║███╗██║██╔══╝  </tspan>
   </text>
   <text x="50%" y="191" text-anchor="middle" class="big">
-    <tspan fill="#c9d1d9">   ██║   </tspan><tspan class="rust">██║  ██║╚██████╔╝███████║   ██║   </tspan><tspan fill="#c9d1d9">    ╚███╔███╔╝███████╗</tspan>
+    <tspan fill="#c9d1d9">   ██║   </tspan><tspan class="rust">██║  ██║╚██████╔╝███████║   ██║   </tspan><tspan fill="#c9d1d9">   ██║     ╚███╔███╔╝███████╗</tspan>
   </text>
   <text x="50%" y="205" text-anchor="middle" class="big">
-    <tspan fill="#c9d1d9">   ╚═╝   </tspan><tspan class="rust">╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   </tspan><tspan fill="#c9d1d9">     ╚══╝╚══╝ ╚══════╝</tspan>
+    <tspan fill="#c9d1d9">   ╚═╝   </tspan><tspan class="rust">╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   </tspan><tspan fill="#c9d1d9">   ╚═╝      ╚══╝╚══╝ ╚══════╝</tspan>
   </text>
 
   <!-- MUST -->
