@@ -1,9 +1,4 @@
-# Hello there 👋
-
-## I'm Gabriel
-
-I am a Cybersecurity student at Wrocław University of Science and Technology, currently pursuing my Master's degree.  
-I work as a DevOps Engineer and I'm interested in Rust, cloud technologies, data, cybersecurity and DevSecOps.
+Hello there 👋 I’m Gabriel, a Cybersecurity student at Wrocław University of Science and Technology, currently pursuing my Master’s degree. I work as a DevOps Engineer and I’m interested in Rust, cloud technologies, data, cybersecurity, and DevSecOps.
 
 <p align="center"> 
   <img src="trust-in-force.svg?v=4" alt="In the Force, tRUST you must" width="850" />
