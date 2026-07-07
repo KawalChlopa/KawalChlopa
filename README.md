@@ -37,6 +37,3 @@ I work as a DevOps Engineer and I’m interested in Rust, cloud technologies, da
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠄⠈⠻⠿⠿⠿⠿⠿⠿⠛⠛⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠻⠿⠿⠿⠿⠟⠉⠀⠀⠤⠴⠶⠌⠿⠘⠿⠿⠿⠿⠶⠤⠀⠀
 </pre>
 
-<p align="center"> 
-  <i>I don’t rest. I rust.</i>
-</p>
